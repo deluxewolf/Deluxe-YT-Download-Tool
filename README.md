@@ -9,4 +9,6 @@ Some of the features include:
 
 ~ Download videos and audio files from a YT playlist URL
 
-The only external requirements needed for this tool is to import pytube library pip install pytube
+~ Download videos and audio files from videos.txt and audios.txt within the applications directory, ensure its a single youtube URL on each line within the files.
+
+The only external requirements needed for this tool is to import pytube library using pip install pytube
